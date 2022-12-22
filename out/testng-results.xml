@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="4104" started-at="2022-12-17T13:26:42 PST" finished-at="2022-12-17T13:26:46 PST">
+    <groups>
+    </groups>
+    <test name="CapstoneProject" duration-ms="4104" started-at="2022-12-17T13:26:42 PST" finished-at="2022-12-17T13:26:46 PST">
+      <class name="BlazeDemoTests">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:BlazeDemoTests@6325a3ee]" name="beforeTest" is-config="true" duration-ms="3428" started-at="2022-12-17T13:26:42 PST" finished-at="2022-12-17T13:26:46 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testCategories()[pri:0, instance:BlazeDemoTests@6325a3ee]" name="testCategories" duration-ms="0" started-at="2022-12-17T13:26:46 PST" description="Test opening the page there must be three categories displayed" finished-at="2022-12-17T13:26:46 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCategories -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:BlazeDemoTests@6325a3ee]" name="afterTest" is-config="true" duration-ms="646" started-at="2022-12-17T13:26:46 PST" finished-at="2022-12-17T13:26:46 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- BlazeDemoTests -->
+    </test> <!-- CapstoneProject -->
+  </suite> <!-- Default Suite -->
+</testng-results>
